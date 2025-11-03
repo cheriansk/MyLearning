@@ -1,6 +1,6 @@
 ## 🌐 AI
 
-<details open> <summary><b>Basics </b></summary>
+<details > <summary><b>Basics </b></summary>
 
 | #. | Summary       |Date|
 | --- | ---------- |------|
@@ -15,7 +15,7 @@
 </details>
 
 ----------
-<details open> <summary><b> Learning Path </b></summary>
+<details > <summary><b> Learning Path </b></summary>
 
 | #. | Summary       |Date|
 | --- | ---------- |------|
@@ -34,7 +34,7 @@
 
 ----------
 
-<details open> <summary><b> LLM </b></summary>
+<details > <summary><b> LLM </b></summary>
 
 | #. | Summary       |Date|
 | --- | ---------- |------|
@@ -47,7 +47,7 @@
 
 ----------
 
-<details open> <summary><b> Agents </b></summary>
+<details > <summary><b> Agents </b></summary>
 
 | #. | Summary       |Date|
 | --- | ---------- |------|
@@ -71,7 +71,7 @@
 
 ----------
 
-<details open> <summary><b> Stack </b></summary>
+<details > <summary><b> Stack </b></summary>
 
 | #. | Summary       |Date|
 | --- | ---------- |------|
@@ -82,7 +82,7 @@
 
 ----------
 
-<details open> <summary><b> Github CoPilot </b></summary>
+<details > <summary><b> Github CoPilot </b></summary>
 
 | #. | Summary       |Date|
 | --- | ---------- |------|
@@ -95,7 +95,7 @@
 
 ----------
 
-<details open> <summary><b> MCP </b></summary>
+<details > <summary><b> MCP </b></summary>
 
 | #. | Summary       |Date|
 | --- | ---------- |------|
@@ -119,7 +119,7 @@
 
 ----------
 
-<details open> <summary><b> Vibe Coding </b></summary>
+<details > <summary><b> Vibe Coding </b></summary>
 
 | #. | Summary       |Date|
 | --- | ---------- |------|
@@ -132,7 +132,7 @@
 
 ----------
 
-<details open> <summary><b> Testing </b></summary>
+<details > <summary><b> Testing </b></summary>
 
 | #. | Summary       |Date|
 | --- | ---------- |------|
