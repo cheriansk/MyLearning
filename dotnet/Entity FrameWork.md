@@ -1,4 +1,6 @@
-## 🌐 .Net Entity FrameWork
+## 🌐 .Net Entity FrameWork (EF Core)
+
+Entity Framework (EF) is an open source[2] object–relational mapping (ORM) framework for .NET. It was originally shipped as an integral part of .NET Framework, however starting with Entity Framework version 6.0 it has been delivered separately from the .NET Framework.
 
 <details > <summary><b> Basics </b></summary>
 
