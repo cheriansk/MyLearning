@@ -1,12 +1,17 @@
 ## 🌐 Blazor
 
+Blazor is a free and open-source web framework that enables developers to create web user interfaces (UI) based on components, using C# , Html and Javascript. It is being developed by Microsoft, as part of the ASP.NET Core web app framework.
+
+Blazor can be used to develop single-page, mobile, or server-rendered applications using .NET technologies.
+
 <details > <summary><b> Basics </b></summary>
 
 | #. | Summary       |Date|
 | --- | ---------- |------|
-|1|[Why You Might Want to Build Your Desktop App with Blazor Components](https://www.telerik.com/blogs/blazor-basics-why-might-build-desktop-app-blazor-components)|10/20/2025|
-|2|[Using Local Storage to Save and Restore Form Input](https://www.telerik.com/blogs/blazor-basics-using-local-storage-save-restore-form-input)|10/20/2025|
-|3|[Blazor Server Reconnection](https://jonhilton.net/blazor-server-reconnection-dotnet-10/)|10/20/2025|
+|2|[What is Blazor- A New .NET Framework]([https://www.telerik.com/blogs/blazor-basics-why-might-build-desktop-app-blazor-components](https://www.tatvasoft.com/outsourcing/2022/09/what-is-blazor.html))|10/20/2025|
+|2|[Why You Might Want to Build Your Desktop App with Blazor Components](https://www.telerik.com/blogs/blazor-basics-why-might-build-desktop-app-blazor-components)|10/20/2025|
+|3|[Using Local Storage to Save and Restore Form Input](https://www.telerik.com/blogs/blazor-basics-using-local-storage-save-restore-form-input)|10/20/2025|
+|4|[Blazor Server Reconnection](https://jonhilton.net/blazor-server-reconnection-dotnet-10/)|10/20/2025|
 
 </details>
 
