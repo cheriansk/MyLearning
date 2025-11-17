@@ -25,6 +25,7 @@
 |4|[How To Implement The Decorator Pattern With Autofac](https://www.devleader.ca/2023/09/12/how-to-implement-the-decorator-pattern-with-autofac/)|10/20/2025|
 |5|[From SOLID to CUPID: Design Principles That Survive Production in Cloud-Native .NET](https://developersvoice.com/blog/architecture/solid-to-cupid-playbook/)|10/20/2025|
 |6|[Pragmatic Paradigm - Object-Oriented, Functional, or Reactive? A Pragmatic Paradigm Playbook for .NET Teams](https://developersvoice.com/blog/oops/pragmatic-paradigms-in-dotnet/)|10/20/2025|
+|7|[Design pattern Across Different Layers](https://www.linkedin.com/posts/adnan-maqbool-khan-0b4531a1_design-patterns-activity-7391007878670786560-frbF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAdPT0MBDIiaAKdiDgREvlMw21lAGnGeI-4)|11/16/2025|
 
 </details>
 
@@ -67,6 +68,7 @@
 |1|[Want to get started with Event-Driven applications](https://www.linkedin.com/posts/milan-jovanovic_want-to-get-started-with-event-driven-applications-activity-7390651855392907264-hqt8/?utm_source=share&utm_medium=member_android&rcm=ACoAAAdPT0MBDIiaAKdiDgREvlMw21lAGnGeI-4)|10/20/2025|
 |2|[Durable Functions, Event Grid, and Azure Messaging](https://blog.devgenius.io/from-timeouts-to-millions-of-messages-my-cloud-architect-journey-to-event-driven-net-eabcfd369dba)|10/20/2025|
 |3|[ Building a Custom Domain Events Dispatcher](https://www.milanjovanovic.tech/blog/building-a-custom-domain-events-dispatcher-in-dotnet?utm_source=newsletter&utm_medium=email&utm_campaign=tnw143)|10/20/2025|
+|4|[Event-Driven Architecture with .NET 9: Goodbye Tight Coupling](https://medium.com/@vahidbakhtiaryinfo/event-driven-architecture-with-net-9-goodbye-tight-coupling-4ee6cbe6738b)|11/16/2025|
 
 </details>
 
@@ -82,6 +84,16 @@
 
 ----------
 
+<details > <summary><b>.Net Saga Pattern	</b></summary>
+
+| #. | Summary       |Date|
+| --- | ---------- |------|
+|1|[Saga Pattern in C#: Reliable Transaction Orchestration Example](https://www.c-sharpcorner.com/article/saga-pattern-in-c-sharp-reliable-transaction-orchestration-example/?utm_source=dotnetnews.beehiiv.com&utm_medium=newsletter&utm_campaign=the-net-news-daily-issue-317)|11/16/2025|
+
+</details>
+
+----------
+
 <details > <summary><b>.Net Project Structure </b></summary>
 
 | #. | Summary       |Date|
@@ -89,6 +101,7 @@
 |1|[Feature structure approach.](https://lnkd.in/dDhzemdC)|10/20/2025|
 |2|[The Best Way To Structure Your .NET Projects with Clean Architecture and Vertical Slices](https://antondevtips.com/blog/the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices?utm_source=convertkit&utm_medium=email&utm_campaign=Best%20Free%20Resources%20to%20Improve%20Your%20.NET%20Skills%20-%2018873058)|10/20/2025|
 |3|[6 Steps for Setting Up a New .NET Project the Right Way](https://www.milanjovanovic.tech/blog/6-steps-for-setting-up-a-new-dotnet-project-the-right-way)|10/20/2025|
+|4|[From Monolithic to Monorepo](https://www.linkedin.com/pulse/from-monolithic-monorepo-my-journey-converting-large-erp-bhuban-yys5c/)|11/16/2025|
 
 </details>
 
