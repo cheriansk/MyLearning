@@ -8,6 +8,7 @@
 |2|[The Language of Leadership: Bridging the Tech-to-Business Communication Divide](https://digitalleadershipexcellence.beehiiv.com/p/the-language-of-leadership-bridging-the-tech-to-business-communication-divide?utm_source=digitalleadershipexcellence.beehiiv.com&utm_medium=newsletter&utm_campaign=57-the-language-of-leadership-bridging-the-tech-to-business-communication-divide)|10/20/2025|
 |3|[How to Sell Anything to Anyone](https://www.linkedin.com/posts/mattgray1_sales-are-simple-when-you-understand-this-activity-7328387543392018433-yTV6?utm_source=share&utm_medium=member_android&rcm=ACoAAAdPT0MBDIiaAKdiDgREvlMw21lAGnGeI-4)|10/20/2025|
 |4|[Want to start writing a newsletter? Here's how.](https://newsletter.bigtechcareers.com/p/want-to-start-writing-a-newsletter?utm_source=publication-search)|10/20/2025|
+|5|[Good communication makes great software engineers](https://newsletter.automationhacks.io/p/good-communication-makes-great-software-engineers)|11/16/2025|
 
 </details>
 
@@ -49,6 +50,7 @@
 |4|[The Comfort Zone Tax: Why playing safe is preventing you from advancing your career](https://digitalleadershipexcellence.beehiiv.com/p/the-comfort-zone-tax-why-playing-safe-is-preventing-you-from-advancing-your-career?utm_source=digitalleadershipexcellence.beehiiv.com&utm_medium=newsletter&utm_campaign=59-the-comfort-zone-tax-why-playing-safe-is-preventing-you-from-advancing-your-career&last_resource_guid=Post%3A83465e12-3a48-484f-80d6-2f52d81f3c41)|10/20/2025|
 |5|[More Experience, More Overwhelmed](https://www.linkedin.com/pulse/more-experience-overwhelmed-dev-leader-weekly-114-nick-cosentino-ppoec/)|10/20/2025|
 |6|[How to Launch New Business using AI](https://www.linkedin.com/posts/will-mctighe_how-to-launch-your-business-this-week-using-ugcPost-7386174241999708160-hdB_/?utm_source=share&utm_medium=member_android&rcm=ACoAAAdPT0MBDIiaAKdiDgREvlMw21lAGnGeI-4)|10/20/2025|
+|7|[How Bootstrapped Startups Are Outperforming Funded Giants](https://www.c-sharpcorner.com/article/how-bootstrapped-startups-are-outperforming-funded-giants/?utm_source=dotnetnews.beehiiv.com&utm_medium=newsletter&utm_campaign=the-net-news-daily-issue-317)|11/16/2025|
 
 </details>
 
