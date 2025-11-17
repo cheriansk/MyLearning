@@ -30,6 +30,7 @@ Entity Framework (EF) is an open source[2] object–relational mapping (ORM) fra
 |4|[Building a multi-tenant system?](https://www.linkedin.com/posts/milan-jovanovic_how-to-build-multi-tenant-apps-with-ef-core-ugcPost-7384866873567510528-YoK_/?utm_source=share&utm_medium=member_android&rcm=ACoAAAdPT0MBDIiaAKdiDgREvlMw21lAGnGeI-4)|10/20/2025|
 |5|[Using Stored Procedures and Functions With EF Core and PostgreSQL](https://www.milanjovanovic.tech/blog/using-stored-procedures-and-functions-with-ef-core-and-postgresql?utm_source=newsletter&utm_medium=email&utm_campaign=tnw162)|10/20/2025|
 |6|[How To Create Migrations For Multiple Databases in EF Core](https://antondevtips.com/blog/how-to-create-migrations-for-multiple-databases-in-ef-core?utm_source=convertkit&utm_medium=email&utm_campaign=Best%20Free%20Resources%20to%20Improve%20Your%20.NET%20Skills%20-%2018873058)|10/20/2025|
+|7|[What Owned Means in EF Core ](https://medium.com/@sankarums/i-finally-understood-what-owned-means-in-ef-core-heres-the-simple-explanation-5db41d19fec4)|11/16/2025|
 
 </details>
 
@@ -53,6 +54,7 @@ Entity Framework (EF) is an open source[2] object–relational mapping (ORM) fra
 |2|[How To Implement Offset and Cursor-Based Pagination in EF Core](https://antondevtips.com/blog/how-to-implement-offset-and-cursor-based-pagination-in-ef-core?utm_source=convertkit&utm_medium=email&utm_campaign=How%20To%20Implement%20Offset%20and%20Cursor-Based%20Pagination%20in%20EF%20Core%20(Find%20out%20which%20one%20is%20better)%20-%2018442964)|10/20/2025|
 |3|[How To Increase EF Core Performance for Read Queries in .NET](https://antondevtips.com/blog/how-to-increase-ef-core-performance-for-read-queries-in-dotnet?utm_source=convertkit&utm_medium=email&utm_campaign=Best%20Free%20Resources%20to%20Improve%20Your%20.NET%20Skills%20-%2018873058)|10/20/2025|
 |4|[EF Core Bulk Insert: Boost Your Performance With Entity Framework Extensions](https://antondevtips.com/blog/ef-core-bulk-insert-boost-your-performance-with-entity-framework-extensions?utm_source=convertkit&utm_medium=email&utm_campaign=Best%20Free%20Resources%20to%20Improve%20Your%20.NET%20Skills%20-%2018873058)|10/20/2025|
+|5|[9 Practical Ways to Speed Up EF Core with Compiled Queries in .NET 9](https://medium.com/@michaelmaurice410/9-practical-ways-to-speed-up-ef-core-with-compiled-queries-in-net-9-clean-architecture-friendly-93c7ff4c1019)|11/16/2025|
 
 </details>
 
