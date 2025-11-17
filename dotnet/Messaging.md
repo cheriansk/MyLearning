@@ -6,6 +6,7 @@
 | --- | ---------- |------|
 |1|[Producer/Consumer pattern](https://www.linkedin.com/posts/nikola-knez_one-of-my-favorite-tricks-in-net-is-%F0%9D%90%82%F0%9D%90%A1-activity-7376548592385429504-p1JV?utm_source=share&utm_medium=member_android&rcm=ACoAAAdPT0MBDIiaAKdiDgREvlMw21lAGnGeI-4)|10/20/2025|
 |2|[Building High-Performance .NET Apps With C# Channels](https://antondevtips.com/blog/building-high-performance-dotnet-apps-with-csharp-channels?utm_source=convertkit&utm_medium=email&utm_campaign=Building%20High-Performance%20.NET%20Apps%20With%20C#%20Channels%20-%2018559098)|10/20/2025|
+|3|[Channels in .NET: Building High-Performance Producer–Consumer Pipelines](https://medium.com/turbo-net/channels-in-dotnet-building-high-performance-producer-consumer-pipelines-d96a2bc6198c)|11/16/2025|
 
 </details>
 
