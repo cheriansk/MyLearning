@@ -43,6 +43,7 @@
 | --- | ---------- |------|
 |1|[Organize Minimal APIs](https://www.tessferrandez.com/blog/2023/10/31/organizing-minimal-apis.html?s=09)|10/20/2025|
 |2|[Best Practices for Web APIs](https://antondevtips.com/blog/top-15-mistakes-developers-make-when-creating-web-apis?utm_source=linkedin&utm_medium=social&utm_campaign=10-2025)|10/20/2025|
+|3|[Make Controllers Better](https://www.linkedin.com/posts/anton-martyniuk_10-controller-secrets-activity-7391013779888607232-p8rV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAdPT0MBDIiaAKdiDgREvlMw21lAGnGeI-4)|11/16/2025|
 
 </details>
 
@@ -114,6 +115,7 @@
 |3|[Building WebAPIs with FastEndpoints and Vertical Slices](https://antondevtips.com/blog/productive-web-api-development-with-fast-endpoints-and-vertical-slice-architecture-in-dotnet?utm_source=convertkit&utm_medium=email&utm_campaign=Best%20Free%20Resources%20to%20Improve%20Your%20.NET%20Skills%20-%2018873058)|10/20/2025|
 |4|[How To Implement Retries and Resilience Patterns With Polly and Microsoft Resilience](https://antondevtips.com/blog/how-to-implement-retries-and-resilience-patterns-with-polly-and-microsoft-resilience?utm_source=convertkit&utm_medium=email&utm_campaign=Best%20Free%20Resources%20to%20Improve%20Your%20.NET%20Skills%20-%2018873058)|10/20/2025|
 |5|[Getting Started with GraphQL (HotChocolate)](https://antondevtips.com/blog/getting-started-with-hot-chocolate-graphql?utm_source=convertkit&utm_medium=email&utm_campaign=Best%20Free%20Resources%20to%20Improve%20Your%20.NET%20Skills%20-%2018873058)|10/20/2025|
+|6|[How To Add Fault Handling In ASP.NET Core With Polly](https://medium.com/@mariammaurice/how-to-add-fault-handling-in-asp-net-core-with-polly-clean-architecture-net-9-86d6c16448bc)|11/16/2025|
 
 </details>
 
