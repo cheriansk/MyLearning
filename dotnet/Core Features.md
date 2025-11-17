@@ -11,6 +11,11 @@
 |5|[ .NET Interview Kit + Private Community = Now FREE](https://www.linkedin.com/posts/djokic-stefan_net-interview-kit-private-community-activity-7368573557129351168-xA-x/?utm_source=share&utm_medium=member_android&rcm=ACoAAAdPT0MBDIiaAKdiDgREvlMw21lAGnGeI-4)|10/20/2025|
 |6|[System Design using .NET and Microservices](https://www.scholarhat.com/master-classes/net-solution-architect-roadmap)|10/20/2025|
 |7|[.Net Solution Architect](https://www.linkedin.com/feed/update/urn:li:activity:7161574369746432000/?utm_source=share&utm_medium=member_android)|10/20/2025|
+|8|[.NET 2025 Roadmap](https://antondevtips.com/roadmap/dotnet?utm_source=linkedin&utm_medium=social&utm_campaign=dotnet-roadmap-2025)|11/16/2025|
+|9|[ASP.NET Core 2025 Roadmap](https://antondevtips.com/roadmap/aspnetcore?utm_source=linkedin&utm_medium=social&utm_campaign=aspnetcore-roadmap-2025)|11/16/2025|
+|10|[EF Core 2025 Roadmap](https://antondevtips.com/roadmap/efcore?utm_source=linkedin&utm_medium=social&utm_campaign=efcore-roadmap-2025)|11/16/2025|
+|11|[The Ultimate Microservices 2025 Roadmap](https://antondevtips.com/roadmap/microservices?utm_source=linkedin&utm_medium=social&utm_campaign=microservices-roadmap-2025)|11/16/2025|
+|12|[The Ultimate C# 2025 Roadmap](https://antondevtips.com/roadmap/csharp?utm_source=linkedin&utm_medium=social&utm_campaign=csharp-roadmap-2025)|11/16/2025|
 
 </details>
 
@@ -28,6 +33,8 @@
 |6|[Distributed Locking: Coordinating Work Across Multiple Instances for concurrent access](https://www.milanjovanovic.tech/blog/distributed-locking-in-dotnet-coordinating-work-across-multiple-instances?utm_source=newsletter&utm_medium=email&utm_campaign=tnw160)|10/20/2025|
 |7|[.Net CLI Commands](https://platform.uno/blog/net-native-apps-cli-cheatsheet/)|10/20/2025|
 |8|[𝐄𝐧𝐮𝐦𝐬 𝐚𝐬 𝐬𝐭𝐫𝐢𝐧𝐠𝐬](https://www.linkedin.com/posts/thisisnabi_dotnet-efcore-aspnetcore-activity-7329188941876686848-WEZK/?utm_source=share&utm_medium=member_android&rcm=ACoAAAdPT0MBDIiaAKdiDgREvlMw21lAGnGeI-4)|10/20/2025|
+|9|[Difference Between Abstract Class and Interface in C#](https://www.c-sharpcorner.com/article/difference-between-abstract-class-and-interface-in-c-sharp/?utm_source=dotnetnews.beehiiv.com&utm_medium=newsletter&utm_campaign=the-net-news-daily-issue-317)|11/16/2025|
+|10|[Understanding Garbage Collection, Cyclic References, and Memory Management in C#](https://www.c-sharpcorner.com/article/understanding-garbage-collection-cyclic-references-and-memory-management-in-c-sharp/?utm_source=dotnetnews.beehiiv.com&utm_medium=newsletter&utm_campaign=the-net-news-daily-issue-317)|11/16/2025|
 
 </details>
 
@@ -40,6 +47,7 @@
 |1|[Top 15 Mistakes .NET Developers Make: How to Avoid Common Pitfalls](https://antondevtips.com/blog/top-15-mistakes-dotnet-developers-make-how-to-avoid-common-pitfalls?utm_source=convertkit&utm_medium=email&utm_campaign=Best%20Free%20Resources%20to%20Improve%20Your%20.NET%20Skills%20-%2018873058)|10/20/2025|
 |2|[TOP 15 Mistakes Developers Make When Creating Web APIs](https://antondevtips.com/blog/top-15-mistakes-developers-make-when-creating-web-apis?utm_source=convertkit&utm_medium=email&utm_campaign=Best%20Free%20Resources%20to%20Improve%20Your%20.NET%20Skills%20-%2018873058)|10/20/2025|
 |3|[ 𝐇𝐨𝐰 𝐈 𝐦𝐚𝐧𝐚𝐠𝐞 𝐭𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐝𝐞𝐛𝐭 𝐢𝐧 .𝐍𝐄𝐓](https://www.linkedin.com/posts/thisisnabi_dotnet-aspnetcore-csharp-activity-7125141912960835584-U6ca/?utm_source=share&utm_medium=member_android)|10/20/2025|
+|4|[50 Hidden C# & .NET Features That Will Change How You Code](https://medium.com/@tejaswini.nareshit/50-hidden-c-net-features-that-will-change-how-you-code-b95f6146746a)|11/16/2025|
 
 </details>
 
@@ -87,6 +95,17 @@
 | --- | ---------- |------|
 |1|[How to Do?](https://www.roundthecode.com/dotnet-tutorials/how-to-inject-services-asp-net-core-dependency-injection)|10/20/2025|
 |2|[Anti Patterns](https://www.linkedin.com/posts/anton-martyniuk_di-mistakes-ugcPost-7374691191830839297-YKVC?utm_source=share&utm_medium=member_android&rcm=ACoAAAdPT0MBDIiaAKdiDgREvlMw21lAGnGeI-4)|10/20/2025|
+|3|[Method Level Dependency Injection](https://www.linkedin.com/posts/nikola-knez_keep-your-controllers-clean-nothing-worse-activity-7391059071568637952-3w5P?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAdPT0MBDIiaAKdiDgREvlMw21lAGnGeI-4)|11/16/2025|
+
+</details>
+
+----------
+
+<details > <summary><b>Delegates/Events</b></summary>
+
+| #. | Summary       |Date|
+| --- | ---------- |------|
+|1|[Delegates and Events in ASP.NET Web Forms](https://www.c-sharpcorner.com/article/delegates-and-events-in-asp-net-web-forms/?utm_source=dotnetnews.beehiiv.com&utm_medium=newsletter&utm_campaign=the-net-news-daily-issue-317)|11/16/2025|
 
 </details>
 
@@ -122,6 +141,7 @@
 |3|[Using Result<T> or OneOf<T> for Better Error Handling ](https://blog.elmah.io/using-result-t-or-oneof-t-for-better-error-handling-in-net/)|10/20/2025|
 |4|[IExceptionHandler](https://lnkd.in/ddBVKuZN)|10/20/2025|
 |5|[How To Replace Exceptions with Result Pattern in .NET](https://antondevtips.com/blog/how-to-replace-exceptions-with-result-pattern-in-dotnet?utm_source=convertkit&utm_medium=email&utm_campaign=Best%20Free%20Resources%20to%20Improve%20Your%20.NET%20Skills%20-%2018873058)|10/20/2025|
+|6|[Designing a Robust Global Exception Handling Strategy in ASP.NET Core](https://www.c-sharpcorner.com/article/designing-a-robust-global-exception-handling-strategy-in-asp-net-core/?utm_source=dotnetnews.beehiiv.com&utm_medium=newsletter&utm_campaign=the-net-news-daily-issue-317)|11/16/2025|
 
 </details>
 
@@ -133,6 +153,7 @@
 | --- | ---------- |------|
 |1|[Top 10 Middleware in ASP.NET Core Web API](https://codingsonata.com/top-10-middleware-in-asp-net-core-web-api/)|10/20/2025|
 |2|[Middleware for HTTPClient](https://www.linkedin.com/posts/milan-jovanovic_middleware-but-for-your-httpclient-yes-activity-7380566857679917056-nKg1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAdPT0MBDIiaAKdiDgREvlMw21lAGnGeI-4)|10/20/2025|
+|3|[Custom Middleware](https://www.linkedin.com/posts/elliotone_3-approaches-to-custom-middleware-in-net-activity-7390794827086471168-XjmS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAdPT0MBDIiaAKdiDgREvlMw21lAGnGeI-4)|11/16/2025|
 
 </details>
 
@@ -255,6 +276,7 @@
 |1|[The New LINQ Methods from .NET 6 to .NET 9](https://antondevtips.com/blog/the-new-linq-methods-from-dotnet-6-to-dotnet-9?utm_source=convertkit&utm_medium=email&utm_campaign=Best%20Free%20Resources%20to%20Improve%20Your%20.NET%20Skills%20-%2018873058)|10/20/2025|
 |2|[Know more about .Net 10 Updates and Breaking changes](https://abp.io/community/articles/.net-10-what-you-need-to-know-lts-release-coming-november-2025-xennnnky#gsc.tab=0)|10/20/2025|
 |3|[Performance Improvements in .Net 10](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/)|10/20/2025|
+|4|[ASP.NET Core Future Trends 2025: MAUI, AI Integration, Blazor Hybrid & Cloud-Native Development (Part-35 of 40)](https://www.c-sharpcorner.com/article/asp-net-core-future-trends-2025-maui-ai-integration-blazor-hybrid-cloud-nat/?utm_source=dotnetnews.beehiiv.com&utm_medium=newsletter&utm_campaign=the-net-news-daily-issue-317)|10/20/2025|
 
 </details>
 
