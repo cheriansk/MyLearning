@@ -9,6 +9,7 @@
 |3|[How to Sell Anything to Anyone](https://www.linkedin.com/posts/mattgray1_sales-are-simple-when-you-understand-this-activity-7328387543392018433-yTV6?utm_source=share&utm_medium=member_android&rcm=ACoAAAdPT0MBDIiaAKdiDgREvlMw21lAGnGeI-4)|10/20/2025|
 |4|[Want to start writing a newsletter? Here's how.](https://newsletter.bigtechcareers.com/p/want-to-start-writing-a-newsletter?utm_source=publication-search)|10/20/2025|
 |5|[Good communication makes great software engineers](https://newsletter.automationhacks.io/p/good-communication-makes-great-software-engineers)|11/16/2025|
+|6|[The Language of Leadership: Bridging the Tech-to-Business Communication Divide](https://digitalleadershipexcellence.beehiiv.com/p/the-language-of-leadership-bridging-the-tech-to-business-communication-divide?utm_source=digitalleadershipexcellence.beehiiv.com&utm_medium=newsletter&utm_campaign=57-the-language-of-leadership-bridging-the-tech-to-business-communication-divide)|11/16/2025|
 
 </details>
 
