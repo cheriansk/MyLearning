@@ -29,6 +29,8 @@
 |8|[Zero to RAG in 2025? This roadmap will save you 100+ hours.](https://www.linkedin.com/posts/sairam-sundaresan_zero-to-rag-in-2025-this-roadmap-will-save-activity-7389983233721065472-Btq0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAdPT0MBDIiaAKdiDgREvlMw21lAGnGeI-4)|10/20/2025|
 |9|[10 Open-Source AI Projects on GitHub Right Now – And Why They Matter](https://www.linkedin.com/posts/anastasiiasha_genai-agentos-opensource-activity-7350845178837950464-qQ5K/?utm_source=share&utm_medium=member_android&rcm=ACoAAAdPT0MBDIiaAKdiDgREvlMw21lAGnGeI-4)|10/20/2025|
 |10|[11 Github repositories every AI Engineer should know! ](https://www.linkedin.com/posts/shirin-khosravi-jam_11-github-repositories-every-ai-engineer-activity-7351505963679395840-sUVm/?utm_source=share&utm_medium=member_android&rcm=ACoAAAdPT0MBDIiaAKdiDgREvlMw21lAGnGeI-4)|10/20/2025|
+|11|[Video Tutorials for Learning AI Agents](https://www.linkedin.com/posts/shivang0203_this-is-hands-down-the-best-playlist-i-found-activity-7389900662731571201-GqJX/?utm_source=share&utm_medium=member_android&rcm=ACoAAAdPT0MBDIiaAKdiDgREvlMw21lAGnGeI-4)|11/16/2025|
+|12|[Agentic AI CheatSheet](https://www.linkedin.com/posts/prem-natarajan-ai_%F0%9D%90%96%F0%9D%90%9E-%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%AF%F0%9D%90%9E-%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%AE%F0%9D%90%A0%F0%9D%90%A1%F0%9D%90%AD-%F0%9D%90%80%F0%9D%90%88-%F0%9D%90%AD%F0%9D%90%A8-%F0%9D%90%AD%F0%9D%90%9A-activity-7392191813714944000-tTV3/?utm_source=share&utm_medium=member_android&rcm=ACoAAAdPT0MBDIiaAKdiDgREvlMw21lAGnGeI-4)|11/16/2025|
 
 </details>
 
@@ -66,6 +68,17 @@
 |13|[Ambient Agents with LangGraph](https://academy.langchain.com/courses/ambient-agents)|10/20/2025|
 |14|[Microsoft 𝗔𝗴𝗲𝗻𝘁 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 ](https://www.linkedin.com/posts/milanmilanovic_%F0%9D%97%A0%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%BF%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BC%F0%9D%97%B3%F0%9D%98%81-%F0%9D%97%B7%F0%9D%98%82%F0%9D%98%80%F0%9D%98%81-%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B2%F0%9D%97%AE%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%B1-activity-7386732130980057088-z5Ew?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAdPT0MBDIiaAKdiDgREvlMw21lAGnGeI-4)|10/20/2025|
 |15|[Build Enterprise-Ready AI Agents with the New Azure Postgres LangChain + LangGraph Connector](https://techcommunity.microsoft.com/blog/adforpostgresql/build-enterprise-ready-ai-agents-with-the-new-azure-postgres-langchain--langgrap/4453420)|10/20/2025|
+|16|[Google - Intro to AI Agents](https://www.linkedin.com/posts/stevenouri_intro-to-agents-nov-2025-ugcPost-7393652624186605568-DMa2/?utm_source=share&utm_medium=member_android&rcm=ACoAAAdPT0MBDIiaAKdiDgREvlMw21lAGnGeI-4)|11/16/2025|
+
+</details>
+
+----------
+
+<details > <summary><b> RAG </b></summary>
+
+| #. | Summary       |Date|
+| --- | ---------- |------|
+|1|[What is RAG](https://www.linkedin.com/posts/analyticalrohit_rag-ugcPost-7393624473062727680-4HNH/?utm_source=share&utm_medium=member_android&rcm=ACoAAAdPT0MBDIiaAKdiDgREvlMw21lAGnGeI-4)|11/16/2025|
 
 </details>
 
